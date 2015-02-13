@@ -24,4 +24,5 @@ There is plenty learning material for torch, albeit a bit scattered over differe
 + As I mentioned, [Soumith's nextml tutorials](https://github.com/soumith/nextml).
 + [Lua language reference](http://www.lua.org/manual/5.1/)
 + [torch cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet) has some tutorial links and a lot of info about packages specific to certain domains.
-
++ I haven't gone through it in detail but most of [this torch5 tutorial](http://torch5.sourceforge.net/manual/nn/) seems still up to date. This goes in detail about modules and criterions.
++ And of course, this should be your new homepage: https://github.com/torch/nn
